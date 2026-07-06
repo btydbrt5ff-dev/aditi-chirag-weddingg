@@ -1,1 +1,102 @@
 # aditi-chirag-weddingg
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aditi ❤️ Chirag</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;700&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="hero">
+
+<h3>Wedding Invitation</h3>
+
+<h1>Aditi ❤️ Chirag</h1>
+
+<p>
+"Two hearts, one promise,
+a lifetime of love."
+</p>
+
+<a href="#events">
+<button>Open Invitation</button>
+</a>
+
+</div>
+
+
+<section class="countdown">
+
+<h2>Countdown to Forever 💍</h2>
+
+<div id="timer"></div>
+
+</section>
+
+
+<section id="events">
+
+<h2>Wedding Events</h2>
+
+<div class="card">
+
+<h3>🌿 Mehndi</h3>
+
+<p>28 August 2026</p>
+
+</div>
+
+<div class="card">
+
+<h3>💛 Haldi</h3>
+
+<p>29 August 2026</p>
+
+</div>
+
+<div class="card">
+
+<h3>🎵 Sangeet</h3>
+
+<p>29 August 2026</p>
+
+</div>
+
+<div class="card">
+
+<h3>💍 Wedding</h3>
+
+<p>30 August 2026</p>
+
+</div>
+
+</section>
+
+
+<section class="venue">
+
+<h2>Venue</h2>
+
+<p>Navdeep Resort</p>
+
+<a href="https://maps.app.goo.gl/KBG1vhg4phfne3kB6?g_st=ic" target="_blank">
+
+<button>Open Google Maps</button>
+
+</a>
+
+</section>
+
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
